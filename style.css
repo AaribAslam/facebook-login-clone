@@ -1,0 +1,90 @@
+body {
+    background-color: #F2F4F7;
+    font-family: "Montserrat", sans-serif;
+}
+.container {
+    padding: 20px;
+    margin: 0 auto;
+    height: 650px;
+    width: 500px;
+    border-radius: 10px;
+    /* border: 1px solid black; */
+    text-align: center;
+}
+.montserrat {
+  font-size: 46px;
+  font-weight: 700;
+  color: #0866FF;
+}
+
+.tag-line{
+    font-size: 24px;
+    width: 410px;
+    margin: 0 auto;
+    text-align: justify;
+    font-weight: 500;
+}
+
+.box{
+    height: 370px;
+    width: 460px;
+    border-radius: 10px;
+    /* border: 1px solid black; */
+    background-color: white;
+    margin: 20px auto;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.input-field{
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px;
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    margin-top: 20px;
+    opacity: 0.5;
+}
+
+.login-btn{
+    font-size: 20px;
+    font-weight: 700;
+    /* padding: 10px; */
+    width: 420px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid #0866FF;
+    margin-top: 20px;
+    background-color: #0866FF;
+    color: white;
+}
+.forgot-password{
+    font-size: 14px;
+    font-weight: 500;
+    color: #0866FF;
+    margin-top: 20px;
+}
+
+hr{
+    width: 420px;
+    margin-top: 20px;
+    opacity: 0.5;
+}
+
+.create-account-btn{
+    font-size: 20px;
+    font-weight: 700;
+    /* padding: 10px; */
+    width: 220px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #42B72A;
+    margin-top: 20px;
+    background-color: #42B72A;
+    color: white;
+}
+
+span{
+    font-weight: 700;
+}
