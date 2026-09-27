@@ -59,6 +59,11 @@ body {
     background-color: #0866FF;
     color: white;
 }
+
+.login-btn:hover{
+    background-color: #0856CC;
+    cursor: pointer;
+}
 .forgot-password{
     font-size: 14px;
     font-weight: 500;
@@ -83,6 +88,11 @@ hr{
     margin-top: 20px;
     background-color: #42B72A;
     color: white;
+}
+
+.create-account-btn:hover{
+    background-color: #3AA21D;
+    cursor: pointer;
 }
 
 span{
